@@ -1,13 +1,13 @@
 # Tutorial for using GraphQL in Koa framework and with Jwt (JSON Web Token)
 
-* Preparations<br />
+## * Preparations<br />
   \- MongoDB: For easy install mongodb with docker-compose I prepared docker-compose.yml file in this project root folder.<br />
   ```
   $ cd <The directory contains docker-compose.yml file, in this case, koa-api-tut.>
   $ docker-compose up -d ---build
   ```
 
-* Setup and test<br />
+## * Setup and test<br />
   \- Download the source code from the github as follows.
   ```
   # Download sources from the github.
